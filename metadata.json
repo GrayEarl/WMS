@@ -1,0 +1,8 @@
+{
+  "name": "Al-Juraid Material & Stock Coding System",
+  "description": "Permanent Material & Stock Coding System (AJ-CC-NNNNNN), Material Master Registry, and IMS Document Control Architecture for Khalid Al-Juraid Trading Company Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
